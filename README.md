@@ -32,3 +32,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### About the naming convention
+https://en.bem.info/methodology/quick-start/
